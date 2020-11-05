@@ -1,3 +1,5 @@
+[![Example Code header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Example_Code.png)](https://opensource.newrelic.com/oss-category/#example-code)
+
 # opentelemetry-jaeger-exporter-java
 
 As with any technology, in order to get to grips with OpenTelemetry there is a small amount of terminology that it is useful to know:
